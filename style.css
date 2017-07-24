@@ -1,0 +1,35 @@
+h1{
+  font-size: 54px;
+  text-align: center;
+}
+
+body {
+  border: 10px solid green;
+  border-style: double;
+  margin-left: 33%;
+  margin-right: 33%;
+  background-color: #D5B0EA;
+  font-family: 'Lato', serif;
+  width: 500px;
+}
+p {
+  text-align: center;
+  font-size: 1.5em;
+}
+
+iframe {
+  border: 10px solid green;
+  /*border-radius: 50%;*/
+}
+ul {
+  background-color: #39DC8B;
+  width: 460px;
+}
+.bolder {
+  font-style: italic;
+  font-weight: 600;
+  text-shadow: 3px 3px #ff0000;
+}
+#thedude {
+  text-align: right;
+}
